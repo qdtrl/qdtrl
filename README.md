@@ -5,12 +5,13 @@
 - 🌱 I’m currently learning React.js and other cool stuff with [The Hacking Project](https://www.thehackingproject.org) developper path !
 - 👯 I’m also looking to collaborate on all projects that need a technical solution to meet their needs that I can provide
 
-<br>
+
 
 > “My teacher asked me what I want to be when I grow up, I said happy. She told me I don’t understand the assignment, I told her she doesn’t understand life.” –  John Lennon
 
 <samp>
-  
+
+
 ## My Toolbox
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="50" height="50"/>
@@ -30,8 +31,6 @@
 <a href="https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="100" height="100"/>
 </a>
-
-
 
 **🔭 I’m currently working on JcSailing.fr**
 
