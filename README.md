@@ -1,5 +1,3 @@
-<div align="center">
-  
 # Hi, I'm Quentin Dubut-Touroul :rocket:
 
 <img  align="right" src="https://avatars1.githubusercontent.com/u/53430120?s=400&v=4" alt="avatar" width="200" height="200"/>
