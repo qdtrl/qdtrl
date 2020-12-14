@@ -6,7 +6,6 @@
 - 👯 I’m also looking to collaborate on all projects that need a technical solution to meet their needs that I can provide
 
 
-
 > “My teacher asked me what I want to be when I grow up, I said happy. She told me I don’t understand the assignment, I told her she doesn’t understand life.” –  John Lennon
 
 <samp>
@@ -27,18 +26,34 @@
   
 ## About Me
   
-**📫 How to reach me:** 
+### How to reach me:
+
 <a href="https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="100" height="100"/>
 </a>
 
-**🔭 I’m currently working on JcSailing.fr**
+### :gem: Job :
 
-**:heart: Hobbies :** Sport :man_cartwheeling: & :sailboat: Sailing & :croissant: Food :broccoli: & :joystick: Video Games :video_game: & Music :headphones:
+- Ruby on Rails Developer - Full Stack
 
-**:briefcase: Hire me :** [Malt](https://www.malt.fr/profile/) | [Upwork](https://www.upwork.com/freelancers/)
+### 🔭 Things that I’m currently working on:
 
-<br>
+- Learning Vim
+- THP Next
+- JcSailing.fr
+
+### :heart: Hobbies :
+
+ - :man_cartwheeling: Sport 
+ - :sailboat: Sailing 
+ - :croissant: Food :broccoli:
+ - :joystick: Video Games :video_game:
+ - :headphones: Music 
+
+### :briefcase: Hire me :
+- [Malt](https://www.malt.fr/profile/) 
+- [Upwork](https://www.upwork.com/freelancers/)
+
 
 ## GitHub <img align="center" src="https://img.shields.io/github/followers/qdtrl?style=social" alt="qdtl" />
 
