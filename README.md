@@ -42,8 +42,7 @@
 
 ## GitHub
 
-![GitHub followers](https://img.shields.io/github/followers/qdtrl?style=social)
-
+<img align="center" src="https://img.shields.io/github/followers/qdtrl?style=social" alt="qdtl" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qdtrl&layout=compact&hide=html" alt="qdtl" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=qdtrl&show_icons=true" alt="qdtrl" />
 
