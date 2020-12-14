@@ -36,6 +36,8 @@
 
 **:heart: Hobbies :** Sport & Sailing & Food & Video Games
 
+**:briefcase: Hire me :** [Malt](https://www.malt.fr/profile/) | [Upwork](https://www.upwork.com/freelancers/)
+
 
 
 ## GitHub
