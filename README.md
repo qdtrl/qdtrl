@@ -34,7 +34,7 @@
 
 **🔭 I’m currently working on JcSailing.fr**
 
-**:heart: Hobbies :** :man_lifting_weights: Sport :man_cartwheeling: & :sailboat: Sailing :man_surfing: & :croissant: Food :brocoli: & :joystick: Video Games :video_games: & Music :headphones:
+**:heart: Hobbies :** Sport :man_cartwheeling: & :sailboat: Sailing & :croissant: Food :broccoli: & :joystick: Video Games :video_games: & Music :headphones:
 
 **:briefcase: Hire me :** [Malt](https://www.malt.fr/profile/) | [Upwork](https://www.upwork.com/freelancers/)
 
