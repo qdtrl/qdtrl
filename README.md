@@ -27,7 +27,7 @@
   
 ## About Me
   
-### How to reach me:
+### :mailbox_with_mail: How to reach me :
 
 <a href="https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="100" height="100"/>
