@@ -1,6 +1,6 @@
 # Hi, I'm Quentin Dubut-Touroul :rocket:
 
-<img  align="right" src="https://avatars1.githubusercontent.com/u/53430120?s=400&v=4" alt="avatar" width="200" height="200"/>
+<img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.07.57%20pm.png?raw=true" alt="opera_house" width="200" height="200"/>
 
 - 🌱 I’m currently learning React.js and other cool stuff with [The Hacking Project](https://www.thehackingproject.org) developper path !
 - 🌱 I’m currently challenging myself in learning vim
@@ -26,11 +26,13 @@
 </p>
   
 ## About Me
-  
+
+<img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.08.48%20pm.png?raw=true" alt="sydney" width="200" height="200"/>
+
 ### :mailbox_with_mail: How to reach me :
 
 <a href="https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-original-wordmark.svg" alt="linkedin" width="100" height="100"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="50" height="50"/>
 </a>
 
 ### :gem: Job :
@@ -43,8 +45,10 @@
 - THP Next
 - JcSailing.fr
 
+ <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.08.34%20pm.png?raw=true" alt="j80" width="200" height="200"/>
+ 
 ### :heart: Hobbies :
-
+ 
  - :man_cartwheeling: Sport 
  - :sailboat: Sailing 
  - :croissant: Food :broccoli:
