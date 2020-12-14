@@ -3,6 +3,7 @@
 <img  align="right" src="https://avatars1.githubusercontent.com/u/53430120?s=400&v=4" alt="avatar" width="200" height="200"/>
 
 - 🌱 I’m currently learning React.js and other cool stuff with [The Hacking Project](https://www.thehackingproject.org) developper path !
+- 🌱 I’m currently challenging myself in learning vim
 - 👯 I’m also looking to collaborate on all projects that need a technical solution to meet their needs that I can provide
 
 
