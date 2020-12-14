@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning React.js and other cool stuff with [The Hacking Project](https://www.thehackingproject.org) developper path !
 - 👯 I’m also looking to collaborate on all projects that need a technical solution to meet their needs that I can provide
 
+<br>
 
 > “My teacher asked me what I want to be when I grow up, I said happy. She told me I don’t understand the assignment, I told her she doesn’t understand life.” –  John Lennon
 
@@ -38,7 +39,7 @@
 
 **:briefcase: Hire me :** [Malt](https://www.malt.fr/profile/) | [Upwork](https://www.upwork.com/freelancers/)
 
-
+<br>
 
 ## GitHub <img align="center" src="https://img.shields.io/github/followers/qdtrl?style=social" alt="qdtl" />
 
