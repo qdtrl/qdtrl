@@ -59,6 +59,8 @@
 - [Malt](https://www.malt.fr/profile/) 
 - [Upwork](https://www.upwork.com/freelancers/)
 
+> “If you hear a voice within you say, ‘You cannot paint,’ then by all means paint, and that voice will be silenced.” — Vincent Van Gogh
+
 
 ## GitHub <img align="center" src="https://img.shields.io/github/followers/qdtrl?style=social" alt="qdtl" />
 
