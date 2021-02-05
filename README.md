@@ -18,7 +18,7 @@
   <a href="https://rubyonrails.org/"><img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/development-ruby_on_rails.png" alt="rails" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png" alt="react" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://www.tutorialchip.com/wp-content/uploads/2012/05/HTML5-Icon.png" alt="html5" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://catalin.red/dist/uploads/2011/01/css3-html5-logo-initial.png" alt="html5" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="50" height="50"/></a>
   <a href="https://getbootstrap.com/"><img src="https://www.seeklogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" alt="bootstrap" width="50" height="50"/></a>
   <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="50" height="50"/></a>
