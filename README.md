@@ -16,8 +16,8 @@
 <p align="center">
   <img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" alt="ruby" width="50" height="50"/>
   <img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/development-ruby_on_rails.png" alt="rails" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://www.tutorialchip.com/wp-content/uploads/2012/05/HTML5-Icon.png" alt="html5" width="50" height="50"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="50" height="50"/>
