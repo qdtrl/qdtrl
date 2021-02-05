@@ -19,7 +19,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png" alt="react" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1612521992~hmac=9e477827c5589f60e7635dfd1f979893" alt="html5" width="50" height="50"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612522160~hmac=7e66c92f17f12093780cd66da2d6e040" alt="css3" width="50" height="50"/></a>
   <a href="https://getbootstrap.com/"><img src="https://www.seeklogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" alt="bootstrap" width="50" height="50"/></a>
   <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="50" height="50"/></a>
   <a href="https://www.postgresql.org/"><img src="https://cdn5.f-cdn.com/contestentries/216177/2802696/5552b06deb8f1_thumb900.jpg" alt="postgresql" width="50" height="50"/></a>
