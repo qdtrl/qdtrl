@@ -14,7 +14,7 @@
 
 ## My Toolbox
 <p align="center">
-  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" alt="ruby" width="50" height="50"/></a>
+  <a href="https://www.ruby-lang.org/en/" onclick="window.open(this.href); return false;"><img src="https://cdn.iconscout.com/icon/free/png-256/ruby-47-1175102.png" alt="ruby" width="50" height="50"/></a>
   <a href="https://rubyonrails.org/"><img src="https://www.iconattitude.com/icons/open_icon_library/apps/png/256/development-ruby_on_rails.png" alt="rails" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://www.tutorialchip.com/wp-content/uploads/2012/05/HTML5-Icon.png" alt="html5" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="css3" width="50" height="50"/></a>
