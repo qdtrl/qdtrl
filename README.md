@@ -22,7 +22,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612522160~hmac=7e66c92f17f12093780cd66da2d6e040" alt="css3" width="50" height="50"/></a>
   <a href="https://getbootstrap.com/"><img src="https://github.com/qdtrl/qdtrl/blob/main/logo-boostrap.png?raw=true" alt="bootstrap" width="50" height="50"/></a>
   <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn5.f-cdn.com/contestentries/216177/2802696/5552b06deb8f1_thumb900.jpg" alt="postgresql" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://github.com/qdtrl/qdtrl/blob/main/logo-postgresql.png?raw=true" alt="postgresql" width="50" height="50"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 </p>
   
