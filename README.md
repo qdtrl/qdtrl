@@ -25,6 +25,8 @@
   <a href="https://www.postgresql.org/"><img src="https://github.com/qdtrl/qdtrl/blob/main/logo-postgresql.png?raw=true" alt="postgresql" width="50" height="50"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 </p>
+
+> “I don't love studying. I hate studying. I like learning. Learning is beautiful.” — Natalie Portman
   
 ## About Me
 
