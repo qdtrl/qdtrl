@@ -20,25 +20,22 @@
   <a href="https://reactjs.org/"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png" alt="react" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img src="https://www.flaticon.com/svg/vstatic/svg/1051/1051277.svg?token=exp=1612521992~hmac=9e477827c5589f60e7635dfd1f979893" alt="html5" width="50" height="50"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://www.flaticon.com/svg/vstatic/svg/732/732190.svg?token=exp=1612522160~hmac=7e66c92f17f12093780cd66da2d6e040" alt="css3" width="50" height="50"/></a>
-  <a href="https://getbootstrap.com/"><img src="https://www.seeklogo.net/wp-content/uploads/2016/06/bootstrap-logo-vector-download.jpg" alt="bootstrap" width="50" height="50"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://github.com/qdtrl/qdtrl/blob/main/logo-boostrap.png?raw=true" alt="bootstrap" width="50" height="50"/></a>
   <a href="https://www.heroku.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/heroku/heroku-plain-wordmark.svg" alt="heroku" width="50" height="50"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://cdn5.f-cdn.com/contestentries/216177/2802696/5552b06deb8f1_thumb900.jpg" alt="postgresql" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://github.com/qdtrl/qdtrl/blob/main/logo-postgresql.png?raw=true" alt="postgresql" width="50" height="50"/></a>
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/></a>
 </p>
+
+> “I don't love studying. I hate studying. I like learning. Learning is beautiful.” — Natalie Portman
   
 ## About Me
 
 <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.08.48%20pm.png?raw=true" alt="sydney" width="200" height="200"/>
 
-### :mailbox_with_mail: How to reach me :
-
-<a href="https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="50" height="50"/>
-</a>
-
 ### :gem: Job :
 
-- Ruby on Rails Developer - Full Stack
+- Javascript - React - Front
+- Ruby - Ruby on Rails - Full Stack
 
 ### 🔭 Things that I’m currently working on:
 
@@ -52,13 +49,16 @@
  
  - :man_cartwheeling: Sport 
  - :sailboat: Sailing 
+ - 📖 Reading 📖
  - :croissant: Food :broccoli:
  - :joystick: Video Games :video_game:
  - :headphones: Music 
 
 ### :briefcase: Hire me :
-- [Malt](https://www.malt.fr/profile/) 
-- [Upwork](https://www.upwork.com/freelancers/)
+- <a href="mailto:quentindtouroul@gmail.com">Via Email</a>
+- <a href="https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="50" height="50"/>
+</a>
 
 > “If you hear a voice within you say, ‘You cannot paint,’ then by all means paint, and that voice will be silenced.” — Vincent Van Gogh
 
