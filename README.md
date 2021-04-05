@@ -32,6 +32,12 @@
 
 <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.08.48%20pm.png?raw=true" alt="sydney" width="200" height="200"/>
 
+### :briefcase: Hire me :
+- <a href="mailto:quentindtouroul@gmail.com">Via Email</a>
+- <a href="https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="50" height="50"/>
+</a>
+
 ### :gem: Job :
 
 - Javascript - React - Front
@@ -49,16 +55,10 @@
  
  - :man_cartwheeling: Sport 
  - :sailboat: Sailing 
- - 📖 Reading 📖
+ - 📖 Reading 
+ - :headphones: Music 
  - :croissant: Food :broccoli:
  - :joystick: Video Games :video_game:
- - :headphones: Music 
-
-### :briefcase: Hire me :
-- <a href="mailto:quentindtouroul@gmail.com">Via Email</a>
-- <a href="https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="50" height="50"/>
-</a>
 
 > “If you hear a voice within you say, ‘You cannot paint,’ then by all means paint, and that voice will be silenced.” — Vincent Van Gogh
 
