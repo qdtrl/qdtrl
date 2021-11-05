@@ -2,7 +2,6 @@
 
 <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.07.57%20pm.png?raw=true" alt="opera_house" width="200" height="200"/>
 
-- 🌱 I’m currently learning React.js and other cool stuff with [The Hacking Project](https://www.thehackingproject.org) developper path !
 - 🌱 I’m currently challenging myself in learning vim
 - 👯 I’m also looking to collaborate on all projects that need a technical solution to meet their needs that I can provide
 
@@ -46,8 +45,8 @@
 ### 🔭 Things that I’m currently working on:
 
 - Learning Vim
-- THP Next
-- JcSailing.fr
+- Python
+- Kali
 
  <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.08.34%20pm.png?raw=true" alt="j80" width="200" height="200"/>
  
