@@ -32,6 +32,7 @@
 <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.08.48%20pm.png?raw=true" alt="sydney" width="200" height="200"/>
 
 ### :briefcase: Hire me :
+- <a href="https://www.malt.fr/profile/qdt"><img align="center" src="https://res.cloudinary.com/hopwork/image/upload/rebranding2020/malt-logo/malt-red.svg" alt="malt" width="50" height="50"/></a>
 - <a href="mailto:quentindtouroul@gmail.com">Via Email</a>
 - <a href="https://www.linkedin.com/in/quentin-dubut-touroul-40a83513b/">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/linkedin/linkedin-plain.svg" alt="linkedin" width="50" height="50"/>
