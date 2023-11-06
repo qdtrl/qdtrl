@@ -2,7 +2,7 @@
 
 <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.07.57%20pm.png?raw=true" alt="opera_house" width="200" height="200"/>
 
-- 🌱 I’m currently challenging myself by starting a new project from myself 
+- 🌱 I’m currently challenging myself by learning Flutter 
 
 > “My teacher asked me what I want to be when I grow up, I said happy. She told me I don’t understand the assignment, I told her she doesn’t understand life.” –  John Lennon
 
