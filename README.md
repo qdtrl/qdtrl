@@ -2,9 +2,7 @@
 
 <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.07.57%20pm.png?raw=true" alt="opera_house" width="200" height="200"/>
 
-- 🌱 I’m currently challenging myself by learning Rust
-- 👯 I’m also looking to collaborate on all projects that need a technical solution to meet their needs that I can provide
-
+- 🌱 I’m currently challenging myself by starting a new project from myself 
 
 > “My teacher asked me what I want to be when I grow up, I said happy. She told me I don’t understand the assignment, I told her she doesn’t understand life.” –  John Lennon
 
@@ -40,13 +38,15 @@
 ### :gem: Job :
 
 - Javascript - React - Front
+- Swift - Swift UI - iOS
+- Dart - Flutter - Mobile 
 - Ruby - Ruby on Rails - Full Stack
 
 ### 🔭 Things that I’m currently working on:
 
-- Learning Rust
-- Stack MERN & Docker (SportEat)
-- Next, Heroku & SEO (JCSailing)
+- We Sail
+- Backend:  Node, Express, PostgreSql
+- Mobile iOS: Swift UI
 
  <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.08.34%20pm.png?raw=true" alt="j80" width="200" height="200"/>
  
