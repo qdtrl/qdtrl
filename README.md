@@ -37,7 +37,8 @@
 
 ### :gem: Job :
 
-- Javascript - React - Front
+- Javascript - React - Web
+- Typescript - React Native - Mobile / Web
 - Swift - Swift UI - iOS
 - Dart - Flutter - Mobile 
 - Ruby - Ruby on Rails - Full Stack
