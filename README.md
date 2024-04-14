@@ -39,6 +39,7 @@
 
 - Javascript - React - Web
 - Typescript - React Native - Mobile
+- Node - Express - API
 - Swift - Swift UI - iOS
 - Dart - Flutter - Mobile 
 - Ruby - Ruby on Rails - Full Stack
