@@ -1,4 +1,4 @@
-# Hi, I'm Quentin Dubut-Touroul :rocket:
+# Hi, I'm Quentin Touroul :rocket:
 
 <img  align="right" src="https://github.com/qdtrl/qdtrl/blob/main/Screen%20Shot%202020-12-14%20at%206.07.57%20pm.png?raw=true" alt="opera_house" width="200" height="200"/>
 
